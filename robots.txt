@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kinara2003.github.io/DisalaCoirIndustries-website/sitemap.xml
